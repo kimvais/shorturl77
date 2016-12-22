@@ -1,0 +1,7 @@
+{
+    "dev": { 
+        "aws_region": "eu-west-1",
+       "s3_bucket": "lambda-for-77",
+       "app_function": "lambda_app.app"
+    }
+}
